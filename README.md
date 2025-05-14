@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="GitHub Header.png" alt="Header Image" width="100%">
+  <img src="Header.png" alt="Header Image" width="100%">
 </p>
 <!--
 **Chrisoen/Chrisoen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
