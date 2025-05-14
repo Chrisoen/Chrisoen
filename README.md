@@ -1,4 +1,3 @@
-![Header](GitHub Header.png)
 <p align="center">
   <img src="GitHub Header.png" alt="Header Image" width="100%">
 </p>
