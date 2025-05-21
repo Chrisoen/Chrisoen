@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Header.png" alt="Header Image" width="100%">
+  <img src="GitHeader1.png" alt="Header Image" width="100%">
 </p>
 
 
